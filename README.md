@@ -22,5 +22,5 @@ This project is a responsive landing page for a fictional desert safari adventur
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/desert-safari-adventures.git
+   git clone https://github.com/your-username/desert-safari.git
    cd desert-safari-adventures
